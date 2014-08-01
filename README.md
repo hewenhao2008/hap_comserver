@@ -1,4 +1,4 @@
 hap_comserver
 =============
 
-Human Appliance Portal, allows users to send strings to (Windows) Autohotkey, Linux (Autokey), (OpenWRT) Serial port, etc..
+Human Appliance Portal, a domotica system based on simple string broadcast over UDP to control (Windows) Autohotkey, (OpenWRT) Serial port, 433 mhz RF switch ( AVR USB serial device), etc.
